@@ -11,9 +11,9 @@ and visualised in Microsoft Excel.
 - Microsoft Excel — PivotTables, charts and dashboard creation
 
 ## Files in this Repository
-- 📄 `mental_health_queries.sql` — All MySQL queries used in this analysis
-- 📊 [View Full Excel Dashboard](paste your Google Drive link here)
-- 🖼️ `dashboard_preview.png` — Dashboard screenshot
+-  Mental health query.sql — All MySQL queries used in this analysis
+- [Full Excel Dasboard](https://docs.google.com/spreadsheets/d/1YKzGB50-yaJqRLei1D31rEcgkSZho7Xs/edit?usp=sharing&ouid=111848346731570347044&rtpof=true&sd=true )
+- Dashboard preview.png
 
 ## Key Questions Analysed
 1. Ratio of men to women with mental health history
@@ -34,8 +34,6 @@ and visualised in Microsoft Excel.
 - Corporate workers report the highest growing stress at 39.1%
 - Treatment seeking increased from 49.7% in 2014 to 100% in 2016
 
-## Dashboard Preview
-![Dashboard](dashboard_preview.png)
 
 ## Data Source
 Kaggle Mental Health Survey Dataset
